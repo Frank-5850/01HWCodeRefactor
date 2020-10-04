@@ -33,7 +33,13 @@ Right click the file index.html and select "open with default browser"
 
 ### Source
 
-https://www.w3schools.com/html/html5_semantic_elements.asp - automatic!
+https://www.w3schools.com/html/html5_semantic_elements.asp
+
+### Screenshot
 
 ![Deployed Website](:\Users\phanf\dev\Week 1\Homework\assets\images)
 Format: ![SS of website](:\Users\phanf\dev\Week 1\Homework\assets\images)
+
+### deployed link
+
+https://frank-5850.github.io/01HWCodeRefactor/
